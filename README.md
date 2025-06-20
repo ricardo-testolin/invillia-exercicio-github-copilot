@@ -1,3 +1,8 @@
+<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+
+Congratulations
+
+Congratulations
 # GitHub Copilot
 
 ![](https://github.com/ricardo-testolin/invillia-exercicio-github-copilot/actions/workflows/1-preparing.yml/badge.svg)
